@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Hamad</h1>
 
-- 🔭 I’m currently working on **Luna**
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Flutter**
